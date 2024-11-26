@@ -1,7 +1,7 @@
 # praktikum5.py
 
-Nama : muflih salda maulana <p>
-NIM : 312410527 <p>
+Nama : Rizqi febrian arrahman <p>
+NIM : 312410544 <p>
 Kelas : TI.24.A.5 <p>
 Mata kuliah : Bahasa Pemrograman <p>
 
